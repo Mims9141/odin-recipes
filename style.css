@@ -1,0 +1,40 @@
+.title {
+    font-weight: bold;
+    text-align: left;
+    color:#000000;
+    font-size: 18px;
+}
+
+.title.main {
+    font-size: 36px;
+    background-color: #00ffff;
+}
+
+.link {
+    font-family: Helvetica, sans-serif;   
+}
+
+.description {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    color: #dc0daf;
+}
+
+.list {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    color: #791919;
+}
+
+.steps {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    color: #e004a2;
+}
+
+.img {
+    float: left;
+    height: 100px;
+    width: auto;
+}
+
